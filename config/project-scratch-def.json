@@ -1,5 +1,5 @@
 {
-  "orgName": "jayson-dev company",
+  "orgName": "salesforce-php-company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
