@@ -4,7 +4,6 @@
     <label>SalesforcePhpApi</label>
     <oauthConfig>
         <callbackUrl>https://salesforce-php.test/</callbackUrl>
-        <consumerKey>3MVG9bx.kiqxiA6abHb_laeQLckwTZaQcalhRWiOaKJF0KH8A08FEggqWEVQk0wbd1iudm46D2NfBZjZJvXrx</consumerKey>
         <isAdminApproved>false</isAdminApproved>
         <isConsumerSecretOptional>false</isConsumerSecretOptional>
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
